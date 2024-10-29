@@ -50,4 +50,4 @@ const claveSustitucion = {
   const resultado = desencriptar(mensajeEncriptado);
   console.log("Mensaje desencriptado parcial:", resultado);
   
-  //Mensaje desencriptado parcial: me()complace()mucho()ver()lo()bien()que()estoy()trabajando()y()cómo()esto()aumenta()mis()poderes()de()atención()y()esfuer__o()continuo
+  //Mensaje desencriptado parcial: me()complace()mucho()ver()lo()bien()que()estoy()trabajando()y()cómo()esto()aumenta()mis()poderes()de()atención()y()esfuerzo()continuo
